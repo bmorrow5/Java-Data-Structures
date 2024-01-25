@@ -1,0 +1,21 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+ABC+/
+AB-C*BA+-*
+ABC-/BA-+/
+ABC+$CBA-+*
+AB0+/CBA+-/
+Invalid prefix! Check input! Last element in postfix is not an operator!
+ABC^$CBA-+*
+ABCDE*FGHI$^JK//LMN$/+-+-++
+ABCD$^^
+ABCDEFG^^HI*/*/J--+
+AB^C*D-
+ABCDEF^$^$^
+Invalid prefix! Check input! Last element in postfix is not an operator!
+ABCDEFGHIJKLMNOP***************
+ABCDEFGHIJKLMNOPQRST^$^V//////***********WXYZ-+-+
+ABCAB-+-+
